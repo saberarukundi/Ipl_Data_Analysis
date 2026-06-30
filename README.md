@@ -161,7 +161,7 @@ The notebook includes visualizations such as:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/saberarukundi/IPL-Data-Analysis.git
+git clone https://github.com/saberarukundi/Ipl_Data_Analysis.git
 ```
 
 ### 2. Navigate to the Project Directory
